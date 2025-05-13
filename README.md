@@ -1,7 +1,7 @@
 # Portfolio – Candidature Data Analyst Chef de projet – Aéroworld
 
 Bienvenue sur ce dépôt GitHub contenant l’ensemble des livrables réalisés dans le cadre de ma candidature pour le poste de **Data Analyst Chef de projet** chez **Aéroworld**, entreprise internationale spécialisée dans l’industrie aéronautique.
-
+<br/><br/><br/>
 
 
 ## 🎯 Objectif de la mission
