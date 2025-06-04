@@ -4,7 +4,7 @@ Bienvenue sur ce dépôt GitHub contenant l’ensemble des livrables réalisés 
 <br/><br/><br/>
 
 
-### 🎯 Objectif de la mission
+### 🎯 Objectif
 
 Répondre à la demande formulée par Aéroworld dans leur **cahier des charges recrutement**, en présentant un **portfolio professionnel, réflexif et visuel** démontrant :
 
