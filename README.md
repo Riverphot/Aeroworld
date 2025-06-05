@@ -19,8 +19,9 @@ Répondre à la demande formulée par Aéroworld dans leur **cahier des charges 
 
 #### 📌 Livrables organisationnels
 - `analyse_du_besoin_client.pdf` : Synthèse des enjeux data d’Aéroworld et de leurs attentes
-- `cahier_des_charges_fonctionnel.pdf` : Traduction structurée des besoins en livrables projet
-- `diagramme_gantt.pdf` : Planification du projet sur 70 heures
+- `mind_map_candidature.pdf` : Mindmap de la candidature Aéroworld et de la gestion des livrables
+- `cahier_des_charges_fonctionnel.pdf` : Traduction structuré du projet Portfolio
+- `diagramme_gantt.pdf` : Planification du projet portfolio sur 70 heures
 
 #### 🧠 Maquettes (Mock-up)
 - `mockup_tableau_de_veille.png` : Maquette du tableau de veille métier/technologique
