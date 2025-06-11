@@ -30,7 +30,7 @@ Répondre à la demande formulée par Aéroworld dans leur **cahier des charges 
 
 #### 📊 Tableaux de bord
 - `dashboard_veille.pbix` : Tableau de bord interactif de veille
-- `dashboard_profil.pbix` : Tableau de présentation des compétences
+- `dashboard_profil.pbix` et `dashboard_profil.pdf` : Tableau de présentation des compétences ( [en ligne](https://urlr.me/EvYJcw) )
 
 #### 📽️ Présentation & documentation
 - `video_presentation.mp4` : Présentation orale des choix et résultats du projet (Loom)
