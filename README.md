@@ -29,7 +29,7 @@ Répondre à la demande formulée par Aéroworld dans leur **cahier des charges 
 - `mockup_portfolio.png` : Schéma de structure du site portfolio
 
 #### 📊 Tableaux de bord
-- `dashboard_veille.pbix` : Tableau de bord interactif de veille
+- `dashboard_veille.pbix` et `dashboard_veille.pdf` : Tableau de bord interactif de veille 
 - `dashboard_profil.pbix` et `dashboard_profil.pdf` : Tableau de présentation des compétences ( [en ligne](https://urlr.me/EvYJcw) )
 
 #### 📽️ Présentation & documentation
