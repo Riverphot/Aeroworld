@@ -32,9 +32,9 @@ Répondre à la demande formulée par Aéroworld dans leur **cahier des charges 
 - `dashboard_veille.pbix` et `dashboard_veille.pdf` : Tableau de bord interactif de veille 
 - `dashboard_profil.pbix` et `dashboard_profil.pdf` : Tableau de présentation des compétences ( [en ligne](https://urlr.me/EvYJcw) )
 
-#### 📽️ Présentation & documentation
-- `video_presentation.mp4` : Présentation orale des choix et résultats du projet (Loom)
-- `documentation_portfolio.pdf` : Document d’accompagnement expliquant chaque livrable
+#### 📽️ Formation & documentation
+- `video_tutoriel_CV-Interactif-PowerBi.mp4` : Tutoriel oral de la création d'un CV interactif avec PowerBI (Loom)
+- `Tutoriel_CV-Interactif-PowerBi.pdf` : Document d’accompagnement expliquant la création d'un CV intercatif avec PowerBi
 <br/><br/><br/>
 
 
