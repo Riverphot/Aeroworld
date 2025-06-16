@@ -33,7 +33,7 @@ Répondre à la demande formulée par Aéroworld dans leur **cahier des charges 
 - `dashboard_profil.pbix` et `dashboard_profil.pdf` : Tableau de présentation des compétences ( [en ligne](https://urlr.me/EvYJcw) )
 
 #### 📽️ Formation & documentation
-- `video_tutoriel_CV-Interactif-PowerBi.mp4` : Tutoriel oral de la création d'un CV interactif avec PowerBI (Loom)
+- `video_tutoriel_CV-Interactif-PowerBi.mp4` : Tutoriel oral de la création d'un CV interactif avec PowerBI ( [en ligne](https://urlr.me/wdg95D) )
 - `Tutoriel_CV-Interactif-PowerBi.pdf` : Document d’accompagnement expliquant la création d'un CV intercatif avec PowerBi
 <br/><br/><br/>
 
