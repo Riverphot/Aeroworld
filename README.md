@@ -28,8 +28,8 @@ Répondre à la demande formulée par Aéroworld dans leur **cahier des charges 
 - `dashboard_veille.pbix` et `dashboard_veille.pdf` : Tableau de bord interactif de veille  ( [en ligne](https://urlr.me/Av5VGr) )
 
 #### 📽️ Formation & documentation
-- `video_tutoriel_CV-Interactif-PowerBi.mp4` : Tutoriel oral de la création d'un CV interactif avec PowerBI ( [en ligne](https://urlr.me/wdg95D) )
 - `Tutoriel_CV-Interactif-PowerBi.pdf` : Document d’accompagnement expliquant la création d'un CV intercatif avec PowerBi
+- `video_tutoriel_CV-Interactif-PowerBi.mp4` : Tutoriel oral de la création d'un CV interactif avec PowerBI ( [en ligne](https://urlr.me/wdg95D) )
 
 #### 📌 Livrables organisationnels
 - `cahier_des_charges_fonctionnel.pdf` : Traduction structuré du projet Portfolio
