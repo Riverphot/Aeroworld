@@ -22,10 +22,10 @@ Répondre à la demande formulée par Aéroworld dans leur **cahier des charges 
 - `mind_map_candidature.pdf` : Mindmap de la candidature Aéroworld et de la gestion des livrables
 
 #### 📊 Tableaux de bord
-- `mockup_tableau_de_veille.png` : Maquette du tableau de veille métier/technologique
-- `dashboard_veille.pbix` et `dashboard_veille.pdf` : Tableau de bord interactif de veille  ( [en ligne](https://urlr.me/Av5VGr) )
 - `mockup_tableau_profil.png` : Maquette du tableau de présentation de profil
 - `dashboard_profil.pbix` et `dashboard_profil.pdf` : Tableau de présentation des compétences ( [en ligne](https://urlr.me/EvYJcw) )
+- `mockup_tableau_de_veille.png` : Maquette du tableau de veille métier/technologique
+- `dashboard_veille.pbix` et `dashboard_veille.pdf` : Tableau de bord interactif de veille  ( [en ligne](https://urlr.me/Av5VGr) )
 
 #### 📽️ Formation & documentation
 - `video_tutoriel_CV-Interactif-PowerBi.mp4` : Tutoriel oral de la création d'un CV interactif avec PowerBI ( [en ligne](https://urlr.me/wdg95D) )
