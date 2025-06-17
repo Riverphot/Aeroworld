@@ -17,19 +17,20 @@ Répondre à la demande formulée par Aéroworld dans leur **cahier des charges 
 
 ### 🧩 Livrables inclus dans ce dépôt
 
-#### 📌 Livrables organisationnels
+#### 🧠 Analyse et stucturation du projet
 - `analyse_du_besoin_client.pdf` : Synthèse des enjeux data d’Aéroworld et de leurs attentes
 - `mind_map_candidature.pdf` : Mindmap de la candidature Aéroworld et de la gestion des livrables
+
+#### 📌 Livrables organisationnels
 - `cahier_des_charges_fonctionnel.pdf` : Traduction structuré du projet Portfolio
 - `diagramme_gantt.pdf` : Planification du projet portfolio sur 70 heures
-
-#### 🧠 Maquettes (Mock-up)
-- `mockup_tableau_de_veille.png` : Maquette du tableau de veille métier/technologique
-- `mockup_tableau_profil.png` : Maquette du tableau de présentation de profil
 - `mockup_portfolio.png` : Schéma de structure du site portfolio
 
+
 #### 📊 Tableaux de bord
+- `mockup_tableau_de_veille.png` : Maquette du tableau de veille métier/technologique
 - `dashboard_veille.pbix` et `dashboard_veille.pdf` : Tableau de bord interactif de veille  ( [en ligne](https://urlr.me/Av5VGr) )
+- `mockup_tableau_profil.png` : Maquette du tableau de présentation de profil
 - `dashboard_profil.pbix` et `dashboard_profil.pdf` : Tableau de présentation des compétences ( [en ligne](https://urlr.me/EvYJcw) )
 
 #### 📽️ Formation & documentation
